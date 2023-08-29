@@ -12,6 +12,7 @@ from floodlight import XY, Pitch, TeamProperty, PlayerProperty
 from floodlight.models.base import BaseModel, requires_fit
 from floodlight.io import dfl
 
+# Copyright (c) 2021 floodlight-sports
 # credit: https://floodlight.readthedocs.io/en/latest/_modules/floodlight/models/space.html#DiscreteVoronoiModel
 # all added code snippets follow "#-#"
 
