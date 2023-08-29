@@ -1,0 +1,4 @@
+As most of this code is based on floodlight, the license terms of floodlight apply:
+https://github.com/floodlight-sports/floodlight/blob/main/LICENSE
+
+
